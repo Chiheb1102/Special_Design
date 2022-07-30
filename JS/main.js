@@ -73,7 +73,7 @@ function randomize() {
     if(backgroundOption === true) {
         interval = setInterval(function() {
             let random = Math.floor(Math.random()*arr.length)
-            landing.style.backgroundImage = 'url(../Imgs/'+arr[random]+')';
+            landing.style.backgroundImage = 'url(/Templates/Special_Design/Imgs/'+arr[random]+')';
         }, 10000)
     }
 }
