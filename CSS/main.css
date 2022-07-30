@@ -205,7 +205,7 @@ ul {
 /* Start Landing */
 .landing {
     min-height: 100vh;
-    background-image: url(/Imgs/01.jpg);
+    background-image: url(Imgs/01.jpg);
     background-size: cover;
     position: relative;
 }
